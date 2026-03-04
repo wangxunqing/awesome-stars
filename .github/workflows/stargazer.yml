@@ -1,23 +1,26 @@
 name: Update Starred Repos List
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: '0 0 * * *'          # 每天 UTC 0 点（香港时间早上 8 点）
-  workflow_dispatch:             # 支持手动触发
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4   # 更新到最新 checkout 版本，更稳定
+      - uses: actions/checkout@v4
 
       - name: Generate starred list
         uses: rverst/stargazer@v1.2.6
         with:
-          github-user: ${{ github.actor }}          # 自动用仓库拥有者（你自己）
-          github-token: ${{ secrets.GITHUB_TOKEN }} # 默认 token 有权限
+          github-user: ${{ github.actor }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           list-file: README.md
-          format: list                              # 改成 table 的话会生成表格，更好看
+          format: list
 
       - name: Commit changes if any
         run: |
