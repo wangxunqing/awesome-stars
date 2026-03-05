@@ -21,6 +21,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           list-file: README.md
           format: list
+          group-by: auto
 
       - name: Commit changes if any
         run: |
