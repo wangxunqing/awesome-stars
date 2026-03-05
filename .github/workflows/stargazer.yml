@@ -1,4 +1,7 @@
 name: update awesome-stars
+
+permissions:
+  contents: write
 on:
   workflow_dispatch:
   schedule:
