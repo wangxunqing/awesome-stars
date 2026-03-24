@@ -176,7 +176,7 @@
 
 - [cft0808/edict](https://github.com/cft0808/edict) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 - [xuping2012/httprunner_swagger](https://github.com/xuping2012/httprunner_swagger) - The open source project uses Python 3 to parse swagger2 X version of the interface document, which can generate data files in the format of JSON, yaml, CVs and xlsx. The solution of automatically gene
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes t
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
 - [op7418/NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills) - NanoBanana PPT Skills 基于 AI 自动生成高质量 PPT 图片和视频的强大工具，支持智能转场和交互式播放
 - [GongRzhe/Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) - A MCP (Model Context Protocol) server for PowerPoint manipulation using python-pptx. This server provides tools for creating, editing, and manipulating PowerPoint presentations through the MCP protoco
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
@@ -340,6 +340,8 @@
 
 ## TypeScript 
 
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
