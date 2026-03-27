@@ -22,7 +22,6 @@
 - [awesome-list](#awesome-list)
 - [backend](#backend)
 - [bootstrap](#bootstrap)
-- [bot](#bot)
 - [c](#c)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
@@ -55,7 +54,6 @@
 - [education](#education)
 - [electron](#electron)
 - [emoji](#emoji)
-- [es6](#es6)
 - [fastapi](#fastapi)
 - [finance](#finance)
 - [flask](#flask)
@@ -94,7 +92,6 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
-- [maven](#maven)
 - [mcp](#mcp)
 - [microservices](#microservices)
 - [mobile](#mobile)
@@ -104,7 +101,6 @@
 - [nextjs](#nextjs)
 - [nlp](#nlp)
 - [no-code](#no-code)
-- [node](#node)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -135,7 +131,6 @@
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [software](#software)
-- [spring](#spring)
 - [springboot](#springboot)
 - [sql](#sql)
 - [sqlite](#sqlite)
@@ -185,7 +180,7 @@
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [YFGaia/dify-plus](https://github.com/YFGaia/dify-plus) - Dify-Plus 是 Dify 的企业级增强版，集成了基于 gin-vue-admin 的管理中心，并针对企业场景进行了功能优化。 🚀  Dify-Plus = 管理中心 + Dify 二开 。 特别说明： 本项目为开源社区的二次开发成果，严格遵循 Dify 原项目的版权许可协议，未涉及原项目许可的多租户功能及 logo 等版权信息。如有相关需求，请直接联系 Dify 官方获取授权与支持。
 - [antvis/Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
@@ -240,13 +235,11 @@
 
 ## analytics 
 
-- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [muatik/flask-profiler](https://github.com/muatik/flask-profiler) - a flask profiler which watches endpoint calls and tries to make some analysis.
 
 ## android 
 
-- [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) - 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS | Bilibili-like app with DASH playback, danmaku, WBI sign & live streaming
+- [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) - 
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
@@ -269,7 +262,6 @@
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
 - [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [eolinker/goku_lite](https://github.com/eolinker/goku_lite) - A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 AP
-- [flasgger/flasgger](https://github.com/flasgger/flasgger) - Easy OpenAPI specs and Swagger UI for your Flask API
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
@@ -319,13 +311,7 @@
 
 ## bootstrap 
 
-- [vito16/shop](https://github.com/vito16/shop) - 基于Spring-boot和bootstrap搭建的商城系统
-- [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 - [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 5 Admin Dashboard Template
-
-## bot 
-
-- [dongweiming/wechat-admin](https://github.com/dongweiming/wechat-admin) - Wechat Management System
 
 ## c 
 
@@ -361,7 +347,6 @@
 ## cms 
 
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
-- [TaleLin/lin-cms-flask](https://github.com/TaleLin/lin-cms-flask) - 🎀A simple and practical CMS implememted by Flask
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [quokkaproject/quokka](https://github.com/quokkaproject/quokka) - LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`
 
@@ -439,7 +424,6 @@
 ## database 
 
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
 
 ## deep-learning 
@@ -477,7 +461,6 @@
 - [meolu/walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 Devops开源项目代码部署平台
 - [opendevops-cn/opendevops](https://github.com/opendevops-cn/opendevops) - CODO是一款为用户提供企业多混合云、全球一站式DevOps、自动化运维、完全开源的云管理平台、自动化运维平台
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
-- [echoyuanliang/alpaca](https://github.com/echoyuanliang/alpaca) - a simple linux dashboard
 - [guohongze/adminset](https://github.com/guohongze/adminset) - 自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理
 
 ## django 
@@ -519,10 +502,6 @@
 
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
-## es6 
-
-- [echoyuanliang/alpaca](https://github.com/echoyuanliang/alpaca) - a simple linux dashboard
-
 ## fastapi 
 
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
@@ -540,19 +519,10 @@
 ## flask 
 
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [TaleLin/lin-cms-flask](https://github.com/TaleLin/lin-cms-flask) - 🎀A simple and practical CMS implememted by Flask
-- [Allen7D/mini-shop-server](https://github.com/Allen7D/mini-shop-server) - 基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）---- 相关博客链接:🌟https://deepwiki.com/Allen7D/mini-shop-server
 - [honmaple/flask-msearch](https://github.com/honmaple/flask-msearch) - Full text search for flask.
-- [echoyuanliang/alpaca](https://github.com/echoyuanliang/alpaca) - a simple linux dashboard
-- [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 - [karec/cookiecutter-flask-restful](https://github.com/karec/cookiecutter-flask-restful) - Flask cookiecutter template for builing APIs with flask-restful, including JWT auth, cli, tests, swagger, docker and more
-- [flasgger/flasgger](https://github.com/flasgger/flasgger) - Easy OpenAPI specs and Swagger UI for your Flask API
 - [miguelgrinberg/flasky](https://github.com/miguelgrinberg/flasky) - Companion code to my O'Reilly book "Flask Web Development", second edition.
-- [paicha/gxgk-wechat-server](https://github.com/paicha/gxgk-wechat-server) - 校园微信公众号，使用 Python、Flask、Redis、MySQL、Celery [DEPRECATED]
 - [quokkaproject/quokka](https://github.com/quokkaproject/quokka) - LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`
-- [muatik/flask-profiler](https://github.com/muatik/flask-profiler) - a flask profiler which watches endpoint calls and tries to make some analysis.
-- [viniciuschiele/flask-apscheduler](https://github.com/viniciuschiele/flask-apscheduler) - Adds APScheduler support to Flask
-- [dongweiming/wechat-admin](https://github.com/dongweiming/wechat-admin) - Wechat Management System
 
 ## flutter 
 
@@ -606,7 +576,6 @@
 
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [alberliu/gim](https://github.com/alberliu/gim) - golang写的IM服务器(服务组件形式)
 
 ## good-first-issue 
@@ -638,10 +607,8 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) - [COLM 2024] OpenAgents: An Open Platform for Language Agents in the Wild
 - [python-social-auth/social-core](https://github.com/python-social-auth/social-core) - Python Social Auth - Core
-- [docker-library/docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
-- [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 
@@ -670,12 +637,10 @@
 
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [yitter/IdGenerator](https://github.com/yitter/IdGenerator) - 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId
-- [vito16/shop](https://github.com/vito16/shop) - 基于Spring-boot和bootstrap搭建的商城系统
 - [infinilabs/analysis-ik](https://github.com/infinilabs/analysis-ik) - 🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.
 - [flowable/flowable-engine](https://github.com/flowable/flowable-engine) - A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-- [ZHENFENG13/ssm-demo](https://github.com/ZHENFENG13/ssm-demo) - :banana:Spring+SpringMVC+Mybatis+easyUI实现简单的后台管理系统
 
 ## javascript 
 
@@ -684,7 +649,6 @@
 - [yitter/IdGenerator](https://github.com/yitter/IdGenerator) - 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## json 
@@ -721,8 +685,6 @@
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
-- [echoyuanliang/alpaca](https://github.com/echoyuanliang/alpaca) - a simple linux dashboard
 
 ## llm 
 
@@ -749,7 +711,6 @@
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [MetaGLM/FinGLM](https://github.com/MetaGLM/FinGLM) - FinGLM: 致力于构建一个开放的、公益的、持久的金融大模型项目，利用开源开放来促进「AI+金融」。
 - [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis) - 🤖 GPT Vision, Visualization for AI Friendly! AntV's entry for AI, and 100% generated by AI.
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
@@ -795,13 +756,8 @@
 ## markdown 
 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [geekplux/markvis](https://github.com/geekplux/markvis) - make visualization in markdown. 📊📈
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
-
-## maven 
-
-- [ZHENFENG13/ssm-demo](https://github.com/ZHENFENG13/ssm-demo) - :banana:Spring+SpringMVC+Mybatis+easyUI实现简单的后台管理系统
 
 ## mcp 
 
@@ -848,17 +804,15 @@
 
 ## monitoring 
 
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
-- [muatik/flask-profiler](https://github.com/muatik/flask-profiler) - a flask profiler which watches endpoint calls and tries to make some analysis.
 
 ## mysql 
 
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [geekyouth/SZT-bigdata](https://github.com/geekyouth/SZT-bigdata) - 深圳地铁大数据客流分析系统🚇🚄🌟
-- [Allen7D/mini-shop-server](https://github.com/Allen7D/mini-shop-server) - 基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）---- 相关博客链接:🌟https://deepwiki.com/Allen7D/mini-shop-server
 
 ## nextjs 
 
@@ -878,15 +832,10 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
-## node 
-
-- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
-
 ## nodejs 
 
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
-- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 
 ## open-source 
 
@@ -914,7 +863,7 @@
 
 ## osint 
 
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 
 ## others 
 
@@ -979,39 +928,31 @@
 - [keel/aes-cross](https://github.com/keel/aes-cross) - A real cross platform AES encryption-decryption solution. Support Java,C,nodeJs,Android,IOS...
 - [guchengwuyue/yshopmall](https://github.com/guchengwuyue/yshopmall) - yshop基于当前流行技术组合的前后端分离B2C单商户、B2B2C多商户商城系统： SpringBoot3+MybatisPlus+SpringSecurity+jwt+redis+Vue的前后端分离的商城系统， 包含商城、sku、运费模板、素材库、拼团、商户管理、 秒杀、优惠券、积分、分销、会员、充值、多门店等功能
 - [BB-fat/InvoiceSpider](https://github.com/BB-fat/InvoiceSpider) - 国家税务总局增值税发票查验平台｜自动化发票查验
-- [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店
 - [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
-- [RebeccaHanjw/weapp-wechat-zhihu](https://github.com/RebeccaHanjw/weapp-wechat-zhihu) - 微信中的知乎--微信小程序 demo // Zhihu in Wechat
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [KevinsBobo/cheat-sheet](https://github.com/KevinsBobo/cheat-sheet) - 速查表包括了 Vim, Git, Shell, Gcc, Gdb 常用命令及快捷键
 - [common-workflow-language/common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) - Repository for the CWL standards. Use https://cwl.discourse.group/ for support 😊
-- [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [momosecurity/aswan](https://github.com/momosecurity/aswan) - 陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
 - [0voice/from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [gyllstromk/Flask-WhooshAlchemy](https://github.com/gyllstromk/Flask-WhooshAlchemy) - Whoosh indexing capabilities for Flask-SQLAlchemy
-- [fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
 - [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
 - [google/textfsm](https://github.com/google/textfsm) - Python module for parsing semi-structured text into python tables.
 - [zensqlmonitor/influxdb-zabbix](https://github.com/zensqlmonitor/influxdb-zabbix) - Gather data from Zabbix back-end and load to InfluxDB in near real-time for enhanced performance and easier usage with Grafana.
 - [napalm-automation/napalm](https://github.com/napalm-automation/napalm) - Network Automation and Programmability Abstraction Layer with Multivendor support
 - [shenzhanwang/RuoYi-activiti](https://github.com/shenzhanwang/RuoYi-activiti) - 整合RuoYi框架，基于Activiti6.0，集流程设计、流程部署、流程执行、任务办理、流程监控于一体的开源工作流开发平台。
-- [KeoZmy/SpringCloudDemo](https://github.com/KeoZmy/SpringCloudDemo) - springcloud使用sidecar整合php、python
 - [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep iframes sized to their content
 - [pydata/numexpr](https://github.com/pydata/numexpr) - Fast numerical array expression evaluator for Python, NumPy, Pandas, PyTables and more
-- [lifei825/devops-flask-vue](https://github.com/lifei825/devops-flask-vue) - 基于flask+vue的运维平台
 - [phith0n/Mind-Map](https://github.com/phith0n/Mind-Map) - 各种安全相关思维导图整理收集
 - [wordnik/wordnik-python](https://github.com/wordnik/wordnik-python) - Wordnik Python public library
 - [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
 - [CodementorIO/Python-Learning-Resources](https://github.com/CodementorIO/Python-Learning-Resources) - 
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [eNMS-automation/eNMS](https://github.com/eNMS-automation/eNMS) - An enterprise-grade vendor-agnostic network automation platform.
-- [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways
 - [trondhindenes/flansible](https://github.com/trondhindenes/flansible) - super-duper-simple rest api for ansible tasks
 - [F5Networks/f5-common-python](https://github.com/F5Networks/f5-common-python) - Python SDK for configuration and monitoring of F5® BIG-IP® devices via the iControl® REST API.
-- [flask-restful/flask-restful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs
 - [4021019/CheungSSH](https://github.com/4021019/CheungSSH) - 比Ansibel更好用的自动化工具
 - [ktbyers/netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices
 - [jphalip/django-treemenus](https://github.com/jphalip/django-treemenus) - A simple django app to manage navigation menus via the django admin
@@ -1098,7 +1039,6 @@
 - [wechatpy/wechatpy](https://github.com/wechatpy/wechatpy) - WeChat SDK for Python
 - [baidu/CUP](https://github.com/baidu/CUP) - CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
 - [TencentBlueKing/bk-sops](https://github.com/TencentBlueKing/bk-sops) - 蓝鲸智云标准运维(SOPS)
-- [Allen7D/mini-shop-server](https://github.com/Allen7D/mini-shop-server) - 基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）---- 相关博客链接:🌟https://deepwiki.com/Allen7D/mini-shop-server
 - [danijar/handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -1111,12 +1051,9 @@
 - [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - Open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [echoyuanliang/alpaca](https://github.com/echoyuanliang/alpaca) - a simple linux dashboard
 - [pydata/pandas-datareader](https://github.com/pydata/pandas-datareader) - Extract data from a wide range of Internet sources into a pandas DataFrame.
-- [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [guohongze/adminset](https://github.com/guohongze/adminset) - 自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理
-- [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 - [pika/pika](https://github.com/pika/pika) - Pure Python RabbitMQ/AMQP 0-9-1 client library
 - [ncclient/ncclient](https://github.com/ncclient/ncclient) - Python library for NETCONF clients
@@ -1131,10 +1068,8 @@
 - [osbzr/gooderp_addons](https://github.com/osbzr/gooderp_addons) - 可能是中国用户数最多的开源ERP
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [miguelgrinberg/flasky](https://github.com/miguelgrinberg/flasky) - Companion code to my O'Reilly book "Flask Web Development", second edition.
-- [paicha/gxgk-wechat-server](https://github.com/paicha/gxgk-wechat-server) - 校园微信公众号，使用 Python、Flask、Redis、MySQL、Celery [DEPRECATED]
 - [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel) - SSH tunnels to remote server.
 - [waditu/tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks
-- [muatik/flask-profiler](https://github.com/muatik/flask-profiler) - a flask profiler which watches endpoint calls and tries to make some analysis.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
@@ -1146,7 +1081,6 @@
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [quokkaproject/quokka](https://github.com/quokkaproject/quokka) - LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`
-- [dongweiming/wechat-admin](https://github.com/dongweiming/wechat-admin) - Wechat Management System
 
 ## pytorch 
 
@@ -1171,7 +1105,6 @@
 - [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 - [derisk-ai/OpenDerisk](https://github.com/derisk-ai/OpenDerisk) - AI-Native Risk Intelligence Systems, OpenDeRisk——Your application system risk intelligent manager provides 7* 24-hour comprehensive and in-depth protection.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -1186,14 +1119,13 @@
 
 ## react-native 
 
-- [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) - 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS | Bilibili-like app with DASH playback, danmaku, WBI sign & live streaming
+- [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) - 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## rest-api 
 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
-- [flasgger/flasgger](https://github.com/flasgger/flasgger) - Easy OpenAPI specs and Swagger UI for your Flask API
 
 ## reverse-engineering 
 
@@ -1233,20 +1165,13 @@
 - [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
-## spring 
-
-- [ZHENFENG13/ssm-demo](https://github.com/ZHENFENG13/ssm-demo) - :banana:Spring+SpringMVC+Mybatis+easyUI实现简单的后台管理系统
-
 ## springboot 
 
 - [geekyouth/SZT-bigdata](https://github.com/geekyouth/SZT-bigdata) - 深圳地铁大数据客流分析系统🚇🚄🌟
-- [JeffLi1993/springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) - spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
 - [Heeexy/SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue) - 提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。（当前新版本已移除shiro依赖，简化了配置）
-- [ZHENFENG13/ssm-demo](https://github.com/ZHENFENG13/ssm-demo) - :banana:Spring+SpringMVC+Mybatis+easyUI实现简单的后台管理系统
 
 ## sql 
 
-- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for
 - [yitter/IdGenerator](https://github.com/yitter/IdGenerator) - 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId
 
 ## sqlite 
@@ -1284,7 +1209,7 @@
 
 ## typescript 
 
-- [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) - 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS | Bilibili-like app with DASH playback, danmaku, WBI sign & live streaming
+- [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) - 
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1308,21 +1233,17 @@
 - [antvis/Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
-- [geekplux/markvis](https://github.com/geekplux/markvis) - make visualization in markdown. 📊📈
 - [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis) - 🤖 GPT Vision, Visualization for AI Friendly! AntV's entry for AI, and 100% generated by AI.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 
 ## vue 
 
+- [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 - [Heeexy/SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue) - 提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。（当前新版本已移除shiro依赖，简化了配置）
-- [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [opendigg/awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
-- [echoyuanliang/alpaca](https://github.com/echoyuanliang/alpaca) - a simple linux dashboard
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-- [dongweiming/wechat-admin](https://github.com/dongweiming/wechat-admin) - Wechat Management System
 
 ## web 
 
@@ -1339,7 +1260,6 @@
 ## webpack 
 
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-- [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 
 ## windows 
 
