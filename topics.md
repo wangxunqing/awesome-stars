@@ -513,7 +513,6 @@
 
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
 - [pydata/pandas-datareader](https://github.com/pydata/pandas-datareader) - Extract data from a wide range of Internet sources into a pandas DataFrame.
-- [osbzr/gooderp_addons](https://github.com/osbzr/gooderp_addons) - 可能是中国用户数最多的开源ERP
 - [waditu/tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks
 
 ## flask 
@@ -929,7 +928,6 @@
 - [keel/aes-cross](https://github.com/keel/aes-cross) - A real cross platform AES encryption-decryption solution. Support Java,C,nodeJs,Android,IOS...
 - [guchengwuyue/yshopmall](https://github.com/guchengwuyue/yshopmall) - yshop基于当前流行技术组合的前后端分离B2C单商户、B2B2C多商户商城系统： SpringBoot3+MybatisPlus+SpringSecurity+jwt+redis+Vue的前后端分离的商城系统， 包含商城、sku、运费模板、素材库、拼团、商户管理、 秒杀、优惠券、积分、分销、会员、充值、多门店等功能
 - [BB-fat/InvoiceSpider](https://github.com/BB-fat/InvoiceSpider) - 国家税务总局增值税发票查验平台｜自动化发票查验
-- [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [KevinsBobo/cheat-sheet](https://github.com/KevinsBobo/cheat-sheet) - 速查表包括了 Vim, Git, Shell, Gcc, Gdb 常用命令及快捷键
 - [common-workflow-language/common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) - Repository for the CWL standards. Use https://cwl.discourse.group/ for support 😊
@@ -963,7 +961,6 @@
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [geekan/scrapy-examples](https://github.com/geekan/scrapy-examples) - Multifarious Scrapy examples. Spiders for alexa / amazon / douban / douyu / github / linkedin etc.
 - [jazzband/tablib](https://github.com/jazzband/tablib) - Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.
-- [openstack-archive/python-jenkins](https://github.com/openstack-archive/python-jenkins) - MOVED: now at https://opendev.org/jjb/python-jenkins
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 
 ## p2p 
@@ -1066,7 +1063,6 @@
 - [spec-first/connexion](https://github.com/spec-first/connexion) - Connexion is a modern Python web framework that makes spec-first and api-first development easy.
 - [nameko/nameko](https://github.com/nameko/nameko) - Python framework for building microservices
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
-- [osbzr/gooderp_addons](https://github.com/osbzr/gooderp_addons) - 可能是中国用户数最多的开源ERP
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [miguelgrinberg/flasky](https://github.com/miguelgrinberg/flasky) - Companion code to my O'Reilly book "Flask Web Development", second edition.
 - [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel) - SSH tunnels to remote server.
