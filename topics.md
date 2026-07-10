@@ -163,6 +163,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
+- [workflow](#workflow)
 
 ## agent 
 
@@ -1041,7 +1042,6 @@
 - [qq547276542/Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) - 农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策
 - [miyakogi/pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [zhutiansama/FocusBigData](https://github.com/zhutiansama/FocusBigData) - 【大数据成神之路学习路径+面经+简历】
-- [Barski-lab/cwl-airflow](https://github.com/Barski-lab/cwl-airflow) - Python package to extend Airflow functionality with CWL1.1 support
 - [rabix/composer](https://github.com/rabix/composer) - Visual and code editor for Common Workflow Language
 - [xubinux/xbin-store-cloud](https://github.com/xubinux/xbin-store-cloud) - 模仿国内知名B2C网站,实现的一个分布式B2C商城 使用Spring Cloud 使用dubbox版本请查看
 - [NetManAIOps/TraceAnomaly](https://github.com/NetManAIOps/TraceAnomaly) - ISSRE'20: Unsupervised Detection of Microservice Trace Anomalies through Service-Level Deep Bayesian Networks
@@ -1057,7 +1057,6 @@
 - [BB-fat/InvoiceSpider](https://github.com/BB-fat/InvoiceSpider) - 国家税务总局增值税发票查验平台｜自动化发票查验
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [KevinsBobo/cheat-sheet](https://github.com/KevinsBobo/cheat-sheet) - 速查表包括了 Vim, Git, Shell, Gcc, Gdb 常用命令及快捷键
-- [common-workflow-language/common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) - Repository for the CWL standards. Use https://cwl.discourse.group/ for support 😊
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [momosecurity/aswan](https://github.com/momosecurity/aswan) - 陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
 - [0voice/from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
@@ -1418,6 +1417,17 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+## workflow 
+
+- [iflytek/astron-agent](https://github.com/iflytek/astron-agent) - Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [Barski-lab/cwl-airflow](https://github.com/Barski-lab/cwl-airflow) - Python package to extend Airflow functionality with CWL1.1 support
+- [TencentBlueKing/bk-sops](https://github.com/TencentBlueKing/bk-sops) - 蓝鲸智云标准运维(SOPS)
+- [common-workflow-language/common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) - Repository for the CWL standards. Use https://cwl.discourse.group/ for support 😊
+- [flowable/flowable-engine](https://github.com/flowable/flowable-engine) - A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 
 
 ## License
