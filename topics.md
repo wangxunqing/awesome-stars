@@ -1053,7 +1053,7 @@
 - [PingPlusPlus/pingpp-python](https://github.com/PingPlusPlus/pingpp-python) - 
 - [d4rkstar/kong-konga-keycloak](https://github.com/d4rkstar/kong-konga-keycloak) - short tutorial to install kong, keycloak and konga in docker and test API authentication
 - [keel/aes-cross](https://github.com/keel/aes-cross) - A real cross platform AES encryption-decryption solution. Support Java,C,nodeJs,Android,IOS...
-- [guchengwuyue/yshopmall](https://github.com/guchengwuyue/yshopmall) - yshop基于当前流行技术组合的前后端分离B2C单商户、B2B2C多商户商城系统： SpringBoot3+MybatisPlus+SpringSecurity+jwt+redis+Vue的前后端分离的商城系统， 包含商城、sku、运费模板、素材库、拼团、商户管理、 秒杀、优惠券、积分、分销、会员、充值、多门店等功能
+- [guchengwuyue/yshop-crm](https://github.com/guchengwuyue/yshop-crm) - yshop-crm意象CRM系统(支持企业微信)，专门为企业销售团队量身定制的工具(且支持多租户与SCRM企业微信)，全面解决企业销售团队的全流程客户服务难题旨在助力企业销售全流程精细化、数字化管理，全面解决企业销售团绩，技术： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统
 - [BB-fat/InvoiceSpider](https://github.com/BB-fat/InvoiceSpider) - 国家税务总局增值税发票查验平台｜自动化发票查验
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [KevinsBobo/cheat-sheet](https://github.com/KevinsBobo/cheat-sheet) - 速查表包括了 Vim, Git, Shell, Gcc, Gdb 常用命令及快捷键
