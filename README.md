@@ -248,6 +248,7 @@
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [miyakogi/pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [Barski-lab/cwl-airflow](https://github.com/Barski-lab/cwl-airflow) - Python package to extend Airflow functionality with CWL1.1 support
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [meolu/walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 Devops开源项目代码部署平台
 - [NetManAIOps/TraceAnomaly](https://github.com/NetManAIOps/TraceAnomaly) - ISSRE'20: Unsupervised Detection of Microservice Trace Anomalies through Service-Level Deep Bayesian Networks
 - [python-social-auth/social-core](https://github.com/python-social-auth/social-core) - Python Social Auth - Core
@@ -379,7 +380,6 @@
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [rabix/composer](https://github.com/rabix/composer) - Visual and code editor for Common Workflow Language
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [keel/aes-cross](https://github.com/keel/aes-cross) - A real cross platform AES encryption-decryption solution. Support Java,C,nodeJs,Android,IOS...
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
