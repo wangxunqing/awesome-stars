@@ -89,7 +89,7 @@
 - [infinilabs/analysis-ik](https://github.com/infinilabs/analysis-ik) - 🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.
 - [sing1ee/elasticsearch-jieba-plugin](https://github.com/sing1ee/elasticsearch-jieba-plugin) - jieba analysis plugin for elasticsearch
 - [egzosn/pay-java-parent](https://github.com/egzosn/pay-java-parent) - 第三方支付对接全能支付Java开发工具包.优雅的轻量级支付模块集成支付对接支付整合（微信,支付宝,银联,友店,富友,跨境支付paypal,payoneer(P卡派安盈)易极付）app,扫码,网页刷脸付刷卡付条码付转账服务商模式,微信分账,微信合单支付、支持多种支付类型多支付账户，支付与业务完全剥离，简单几行代码即可实现支付，简单快速完成支付模块的开发，可轻松嵌入到任何系统里 目前仅是一个开发工具包
-- [guchengwuyue/yshop-crm](https://github.com/guchengwuyue/yshop-crm) - yshop-crm意象CRM系统(支持企业微信)，专门为企业销售团队量身定制的工具(且支持多租户与SCRM企业微信)，全面解决企业销售团队的全流程客户服务难题旨在助力企业销售全流程精细化、数字化管理，全面解决企业销售团绩，技术： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统
+- [guchengwuyue/yshop-crm](https://github.com/guchengwuyue/yshop-crm) - yshop-crm意象CRM系统(支持企业微信)，专门为企业销售团队量身定制的工具(且支持多租户与SCRM企业微信)，全面解决企业销售团队的全流程客户服务难题旨在助力企业销售全流程精细化、数字化管理，全面解决企业销售团绩，yshop-stock意象物质仓库库存管理系统k 意象物质仓库库存管理系统，面向中小企业仓管、采购与业务协同场景，覆盖商品多规格、入库出库、库存查询与时序出入库单审核/反审核等
 - [flowable/flowable-engine](https://github.com/flowable/flowable-engine) - A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
 - [Heeexy/SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue) - 提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。（当前新版本已移除shiro依赖，简化了配置）
 - [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
