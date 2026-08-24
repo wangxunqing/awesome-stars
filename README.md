@@ -292,7 +292,6 @@
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 - [pika/pika](https://github.com/pika/pika) - Pure Python RabbitMQ/AMQP 0-9-1 client library
 - [trondhindenes/flansible](https://github.com/trondhindenes/flansible) - super-duper-simple rest api for ansible tasks
-- [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 - [ncclient/ncclient](https://github.com/ncclient/ncclient) - Python library for NETCONF clients
 - [mpenning/ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Arista / Cisco / Juniper / Palo Alto / F5 configurations.
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
