@@ -1067,7 +1067,7 @@
 - [PingPlusPlus/pingpp-python](https://github.com/PingPlusPlus/pingpp-python) - 
 - [d4rkstar/kong-konga-keycloak](https://github.com/d4rkstar/kong-konga-keycloak) - short tutorial to install kong, keycloak and konga in docker and test API authentication
 - [keel/aes-cross](https://github.com/keel/aes-cross) - A real cross platform AES encryption-decryption solution. Support Java,C,nodeJs,Android,IOS...
-- [guchengwuyue/yshop-crm](https://github.com/guchengwuyue/yshop-crm) - yshop-crm意象CRM系统(支持企业微信)，专门为企业销售团队量身定制的工具(且支持多租户与SCRM企业微信)，全面解决企业销售团队的全流程客户服务难题旨在助力企业销售全流程精细化、数字化管理，全面解决企业销售团绩，yshop-stock意象物质仓库库存管理系统k 意象物质仓库库存管理系统，面向中小企业仓管、采购与业务协同场景，覆盖商品多规格、入库出库、库存查询与时序出入库单审核/反审核等
+- [guchengwuyue/yshop-crm](https://github.com/guchengwuyue/yshop-crm) - yshop-crm意象CRM系统(支持企业微信)，专门为企业销售团队量身定制的工具(且支持多租户与SCRM企业微信)，全面解决企业销售团队的全流程客户服务难题旨在助力企业销售全流程精细化、数字化管理，全面解决企业销售团绩。
 - [BB-fat/InvoiceSpider](https://github.com/BB-fat/InvoiceSpider) - 国家税务总局增值税发票查验平台｜自动化发票查验
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [KevinsBobo/cheat-sheet](https://github.com/KevinsBobo/cheat-sheet) - 速查表包括了 Vim, Git, Shell, Gcc, Gdb 常用命令及快捷键
