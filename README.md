@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Astro](#astro)
 - [C](#c)
 - [C++](#c++)
 - [Common Workflow Language](#common-workflow-language)
@@ -28,10 +27,6 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [TypeScript](#typescript)
-
-## Astro 
-
-- [datawhalechina/deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action) - 📚 《Deep Agents 实战》—— LangChain 官方大使出品，基于 LangChain / LangGraph 生态，从零构建生产级 AI Agent 的完整指南
 
 ## C 
 
@@ -112,6 +107,7 @@
 
 ## Jupyter Notebook 
 
+- [datawhalechina/deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action) - 📚 《Deep Agents 实战》—— LangChain 官方大使出品，基于 LangChain / LangGraph 生态，从零构建生产级 AI Agent 的完整指南
 - [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 - [rainyear/python3-in-one-pic](https://github.com/rainyear/python3-in-one-pic) - Learn python3 in one picture.
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
